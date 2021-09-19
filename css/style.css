@@ -23,7 +23,7 @@ html {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  min-width: 360px;
+  min-width: 375px;
   min-height: 709px;
   padding: 71px 33px;
   background-color: var(--background-color);
