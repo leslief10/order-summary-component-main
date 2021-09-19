@@ -1,0 +1,11 @@
+@media only screen and (min-width: 750px) {
+  .order-summary__image-container {
+    max-width: 450px;
+    max-height: 220px;
+  }
+
+  .order-summary__container {
+    max-width: 450px;
+    max-height: 447px;
+  }
+}
