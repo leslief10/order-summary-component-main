@@ -24,7 +24,7 @@ html {
   justify-content: center;
   align-items: center;
   min-width: 375px;
-  min-height: 709px;
+  height: 99vh;
   padding: 71px 33px;
   background-color: var(--background-color);
   background-image: url('../images/pattern-background-desktop.svg');
