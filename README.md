@@ -7,6 +7,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -26,6 +27,10 @@ Users should be able to:
 
 ![](./design/mobile-solution.png)
 ![](./design/desktop-solution.png)
+
+### Links
+
+- Live Site URL: [Order summary card](https://leslief10.github.io/order-summary-component-main/)
 
 ## My process
 
